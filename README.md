@@ -1,1 +1,1 @@
-# CS519.N11
+# CS519.N11 - Phương pháp luận NCKH
